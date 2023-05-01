@@ -1,0 +1,13 @@
+#### INICIO ####
+NOME: Bruno 
+DATA_DE_NASCIMENTO: 10/07/1994
+NOME_DA_RUA: Nova Petropolis
+NUMERO_DA_CASA: 1
+#### FIM ####
+#### INICIO ####
+NOME: Bruno Gabriel
+DATA_DE_NASCIMENTO: 10/07/1994
+NOME_DA_RUA: Nova Petrópolis
+NUMERO_DA_CASA: 771
+#### FIM ####
+

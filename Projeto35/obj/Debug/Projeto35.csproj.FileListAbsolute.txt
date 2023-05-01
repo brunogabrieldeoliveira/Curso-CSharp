@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto35\bin\Debug\Projeto35.exe.config
+C:\temp\C#\Projeto35\bin\Debug\Projeto35.exe
+C:\temp\C#\Projeto35\bin\Debug\Projeto35.pdb
+C:\temp\C#\Projeto35\obj\Debug\Projeto35.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto35\obj\Debug\Projeto35.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto35\obj\Debug\Projeto35.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto35\obj\Debug\Projeto35.exe
+C:\temp\C#\Projeto35\obj\Debug\Projeto35.pdb

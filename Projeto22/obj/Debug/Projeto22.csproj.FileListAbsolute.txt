@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto22\bin\Debug\Projeto22.exe.config
+C:\temp\C#\Projeto22\bin\Debug\Projeto22.exe
+C:\temp\C#\Projeto22\bin\Debug\Projeto22.pdb
+C:\temp\C#\Projeto22\obj\Debug\Projeto22.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto22\obj\Debug\Projeto22.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto22\obj\Debug\Projeto22.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto22\obj\Debug\Projeto22.exe
+C:\temp\C#\Projeto22\obj\Debug\Projeto22.pdb

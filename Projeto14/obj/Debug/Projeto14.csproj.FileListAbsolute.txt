@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto14\bin\Debug\Projeto14.exe.config
+C:\temp\C#\Projeto14\bin\Debug\Projeto14.exe
+C:\temp\C#\Projeto14\bin\Debug\Projeto14.pdb
+C:\temp\C#\Projeto14\obj\Debug\Projeto14.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto14\obj\Debug\Projeto14.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto14\obj\Debug\Projeto14.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto14\obj\Debug\Projeto14.exe
+C:\temp\C#\Projeto14\obj\Debug\Projeto14.pdb

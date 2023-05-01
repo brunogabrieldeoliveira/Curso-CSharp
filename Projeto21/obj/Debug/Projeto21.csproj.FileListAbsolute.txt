@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto21\bin\Debug\Projeto21.exe.config
+C:\temp\C#\Projeto21\bin\Debug\Projeto21.exe
+C:\temp\C#\Projeto21\bin\Debug\Projeto21.pdb
+C:\temp\C#\Projeto21\obj\Debug\Projeto21.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto21\obj\Debug\Projeto21.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto21\obj\Debug\Projeto21.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto21\obj\Debug\Projeto21.exe
+C:\temp\C#\Projeto21\obj\Debug\Projeto21.pdb

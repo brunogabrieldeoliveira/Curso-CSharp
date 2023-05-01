@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto03\bin\Debug\Projeto03.exe.config
+C:\temp\C#\Projeto03\bin\Debug\Projeto03.exe
+C:\temp\C#\Projeto03\bin\Debug\Projeto03.pdb
+C:\temp\C#\Projeto03\obj\Debug\Projeto03.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto03\obj\Debug\Projeto03.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto03\obj\Debug\Projeto03.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto03\obj\Debug\Projeto03.exe
+C:\temp\C#\Projeto03\obj\Debug\Projeto03.pdb

@@ -1,0 +1,8 @@
+#### INICIO ####
+NOME: Tanise Pereira Gomes
+DATA_DE_NASCIMENTO: 18/01/1994
+NUMERO_DO_DOCUMENTO: 321
+NOME_DA_RUA: Arnaldo da Costa Bard
+NUMERO_DA_CASA: 3029
+#### FIM ####
+

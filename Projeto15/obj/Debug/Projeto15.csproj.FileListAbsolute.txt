@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto15\bin\Debug\Projeto15.exe.config
+C:\temp\C#\Projeto15\bin\Debug\Projeto15.exe
+C:\temp\C#\Projeto15\bin\Debug\Projeto15.pdb
+C:\temp\C#\Projeto15\obj\Debug\Projeto15.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto15\obj\Debug\Projeto15.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto15\obj\Debug\Projeto15.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto15\obj\Debug\Projeto15.exe
+C:\temp\C#\Projeto15\obj\Debug\Projeto15.pdb

@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto11\bin\Debug\Projeto11.exe.config
+C:\temp\C#\Projeto11\bin\Debug\Projeto11.exe
+C:\temp\C#\Projeto11\bin\Debug\Projeto11.pdb
+C:\temp\C#\Projeto11\obj\Debug\Projeto11.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto11\obj\Debug\Projeto11.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto11\obj\Debug\Projeto11.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto11\obj\Debug\Projeto11.exe
+C:\temp\C#\Projeto11\obj\Debug\Projeto11.pdb

@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto27\bin\Debug\Projeto27.exe.config
+C:\temp\C#\Projeto27\bin\Debug\Projeto27.exe
+C:\temp\C#\Projeto27\bin\Debug\Projeto27.pdb
+C:\temp\C#\Projeto27\obj\Debug\Projeto27.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto27\obj\Debug\Projeto27.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto27\obj\Debug\Projeto27.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto27\obj\Debug\Projeto27.exe
+C:\temp\C#\Projeto27\obj\Debug\Projeto27.pdb

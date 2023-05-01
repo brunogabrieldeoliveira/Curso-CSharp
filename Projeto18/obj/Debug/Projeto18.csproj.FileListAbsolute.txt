@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto18\bin\Debug\Projeto18.exe.config
+C:\temp\C#\Projeto18\bin\Debug\Projeto18.exe
+C:\temp\C#\Projeto18\bin\Debug\Projeto18.pdb
+C:\temp\C#\Projeto18\obj\Debug\Projeto18.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto18\obj\Debug\Projeto18.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto18\obj\Debug\Projeto18.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto18\obj\Debug\Projeto18.exe
+C:\temp\C#\Projeto18\obj\Debug\Projeto18.pdb

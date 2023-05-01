@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto17\bin\Debug\Projeto17.exe.config
+C:\temp\C#\Projeto17\bin\Debug\Projeto17.exe
+C:\temp\C#\Projeto17\bin\Debug\Projeto17.pdb
+C:\temp\C#\Projeto17\obj\Debug\Projeto17.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto17\obj\Debug\Projeto17.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto17\obj\Debug\Projeto17.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto17\obj\Debug\Projeto17.exe
+C:\temp\C#\Projeto17\obj\Debug\Projeto17.pdb

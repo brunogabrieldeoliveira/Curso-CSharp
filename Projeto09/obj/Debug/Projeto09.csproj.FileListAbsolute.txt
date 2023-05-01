@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto09\bin\Debug\Projeto09.exe.config
+C:\temp\C#\Projeto09\bin\Debug\Projeto09.exe
+C:\temp\C#\Projeto09\bin\Debug\Projeto09.pdb
+C:\temp\C#\Projeto09\obj\Debug\Projeto09.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto09\obj\Debug\Projeto09.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto09\obj\Debug\Projeto09.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto09\obj\Debug\Projeto09.exe
+C:\temp\C#\Projeto09\obj\Debug\Projeto09.pdb

@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto30\bin\Debug\Projeto30.exe.config
+C:\temp\C#\Projeto30\bin\Debug\Projeto30.exe
+C:\temp\C#\Projeto30\bin\Debug\Projeto30.pdb
+C:\temp\C#\Projeto30\obj\Debug\Projeto30.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto30\obj\Debug\Projeto30.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto30\obj\Debug\Projeto30.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto30\obj\Debug\Projeto30.exe
+C:\temp\C#\Projeto30\obj\Debug\Projeto30.pdb

@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto25\bin\Debug\Projeto25.exe.config
+C:\temp\C#\Projeto25\bin\Debug\Projeto25.exe
+C:\temp\C#\Projeto25\bin\Debug\Projeto25.pdb
+C:\temp\C#\Projeto25\obj\Debug\Projeto25.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto25\obj\Debug\Projeto25.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto25\obj\Debug\Projeto25.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto25\obj\Debug\Projeto25.exe
+C:\temp\C#\Projeto25\obj\Debug\Projeto25.pdb

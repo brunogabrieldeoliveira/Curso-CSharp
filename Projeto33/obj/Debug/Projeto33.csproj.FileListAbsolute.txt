@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto33\bin\Debug\Projeto33.exe.config
+C:\temp\C#\Projeto33\bin\Debug\Projeto33.exe
+C:\temp\C#\Projeto33\bin\Debug\Projeto33.pdb
+C:\temp\C#\Projeto33\obj\Debug\Projeto33.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto33\obj\Debug\Projeto33.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto33\obj\Debug\Projeto33.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto33\obj\Debug\Projeto33.exe
+C:\temp\C#\Projeto33\obj\Debug\Projeto33.pdb

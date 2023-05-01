@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto26\bin\Debug\Projeto26.exe.config
+C:\temp\C#\Projeto26\bin\Debug\Projeto26.exe
+C:\temp\C#\Projeto26\bin\Debug\Projeto26.pdb
+C:\temp\C#\Projeto26\obj\Debug\Projeto26.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto26\obj\Debug\Projeto26.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto26\obj\Debug\Projeto26.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto26\obj\Debug\Projeto26.exe
+C:\temp\C#\Projeto26\obj\Debug\Projeto26.pdb

@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto12\bin\Debug\Projeto12.exe.config
+C:\temp\C#\Projeto12\bin\Debug\Projeto12.exe
+C:\temp\C#\Projeto12\bin\Debug\Projeto12.pdb
+C:\temp\C#\Projeto12\obj\Debug\Projeto12.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto12\obj\Debug\Projeto12.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto12\obj\Debug\Projeto12.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto12\obj\Debug\Projeto12.exe
+C:\temp\C#\Projeto12\obj\Debug\Projeto12.pdb

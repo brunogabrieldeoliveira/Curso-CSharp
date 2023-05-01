@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto32\bin\Debug\Projeto32.exe.config
+C:\temp\C#\Projeto32\bin\Debug\Projeto32.exe
+C:\temp\C#\Projeto32\bin\Debug\Projeto32.pdb
+C:\temp\C#\Projeto32\obj\Debug\Projeto32.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto32\obj\Debug\Projeto32.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto32\obj\Debug\Projeto32.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto32\obj\Debug\Projeto32.exe
+C:\temp\C#\Projeto32\obj\Debug\Projeto32.pdb

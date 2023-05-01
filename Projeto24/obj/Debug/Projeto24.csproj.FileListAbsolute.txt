@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto24\bin\Debug\Projeto24.exe.config
+C:\temp\C#\Projeto24\bin\Debug\Projeto24.exe
+C:\temp\C#\Projeto24\bin\Debug\Projeto24.pdb
+C:\temp\C#\Projeto24\obj\Debug\Projeto24.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto24\obj\Debug\Projeto24.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto24\obj\Debug\Projeto24.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto24\obj\Debug\Projeto24.exe
+C:\temp\C#\Projeto24\obj\Debug\Projeto24.pdb

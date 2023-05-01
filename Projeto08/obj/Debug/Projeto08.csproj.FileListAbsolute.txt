@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto08\bin\Debug\Projeto08.exe.config
+C:\temp\C#\Projeto08\bin\Debug\Projeto08.exe
+C:\temp\C#\Projeto08\bin\Debug\Projeto08.pdb
+C:\temp\C#\Projeto08\obj\Debug\Projeto08.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto08\obj\Debug\Projeto08.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto08\obj\Debug\Projeto08.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto08\obj\Debug\Projeto08.exe
+C:\temp\C#\Projeto08\obj\Debug\Projeto08.pdb
