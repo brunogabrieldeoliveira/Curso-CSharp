@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto36\bin\Debug\Projeto36.exe.config
+C:\temp\C#\Projeto36\bin\Debug\Projeto36.exe
+C:\temp\C#\Projeto36\bin\Debug\Projeto36.pdb
+C:\temp\C#\Projeto36\obj\Debug\Projeto36.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto36\obj\Debug\Projeto36.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto36\obj\Debug\Projeto36.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto36\obj\Debug\Projeto36.exe
+C:\temp\C#\Projeto36\obj\Debug\Projeto36.pdb

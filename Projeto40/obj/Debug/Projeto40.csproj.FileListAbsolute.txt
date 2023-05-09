@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto40\bin\Debug\Projeto40.exe.config
+C:\temp\C#\Projeto40\bin\Debug\Projeto40.exe
+C:\temp\C#\Projeto40\bin\Debug\Projeto40.pdb
+C:\temp\C#\Projeto40\obj\Debug\Projeto40.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto40\obj\Debug\Projeto40.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto40\obj\Debug\Projeto40.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto40\obj\Debug\Projeto40.exe
+C:\temp\C#\Projeto40\obj\Debug\Projeto40.pdb

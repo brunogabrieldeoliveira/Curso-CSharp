@@ -1,0 +1,11 @@
+C:\temp\C#\Projeto42\bin\Debug\Projeto42.exe.config
+C:\temp\C#\Projeto42\bin\Debug\Projeto42.exe
+C:\temp\C#\Projeto42\bin\Debug\Projeto42.pdb
+C:\temp\C#\Projeto42\bin\Debug\Projeto41.dll
+C:\temp\C#\Projeto42\bin\Debug\Projeto41.pdb
+C:\temp\C#\Projeto42\obj\Debug\Projeto42.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto42\obj\Debug\Projeto42.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto42\obj\Debug\Projeto42.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto42\obj\Debug\Projeto42.csproj.CopyComplete
+C:\temp\C#\Projeto42\obj\Debug\Projeto42.exe
+C:\temp\C#\Projeto42\obj\Debug\Projeto42.pdb

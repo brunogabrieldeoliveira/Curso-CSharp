@@ -1,0 +1,6 @@
+C:\temp\C#\Projeto41\bin\Debug\Projeto41.dll
+C:\temp\C#\Projeto41\bin\Debug\Projeto41.pdb
+C:\temp\C#\Projeto41\obj\Debug\Projeto41.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto41\obj\Debug\Projeto41.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto41\obj\Debug\Projeto41.dll
+C:\temp\C#\Projeto41\obj\Debug\Projeto41.pdb

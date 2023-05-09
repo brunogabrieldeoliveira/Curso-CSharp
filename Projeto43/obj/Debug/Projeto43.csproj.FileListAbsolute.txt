@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto43\bin\Debug\Projeto43.exe.config
+C:\temp\C#\Projeto43\bin\Debug\Projeto43.exe
+C:\temp\C#\Projeto43\bin\Debug\Projeto43.pdb
+C:\temp\C#\Projeto43\obj\Debug\Projeto43.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto43\obj\Debug\Projeto43.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto43\obj\Debug\Projeto43.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto43\obj\Debug\Projeto43.exe
+C:\temp\C#\Projeto43\obj\Debug\Projeto43.pdb
