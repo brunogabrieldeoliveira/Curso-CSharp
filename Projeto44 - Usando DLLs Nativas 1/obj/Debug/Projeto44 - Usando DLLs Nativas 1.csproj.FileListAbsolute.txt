@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto44 - Usando DLLs Nativas 1\bin\Debug\Projeto44 - Usando DLLs Nativas 1.exe.config
+C:\temp\C#\Projeto44 - Usando DLLs Nativas 1\bin\Debug\Projeto44 - Usando DLLs Nativas 1.exe
+C:\temp\C#\Projeto44 - Usando DLLs Nativas 1\bin\Debug\Projeto44 - Usando DLLs Nativas 1.pdb
+C:\temp\C#\Projeto44 - Usando DLLs Nativas 1\obj\Debug\Projeto44 - Usando DLLs Nativas 1.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto44 - Usando DLLs Nativas 1\obj\Debug\Projeto44 - Usando DLLs Nativas 1.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto44 - Usando DLLs Nativas 1\obj\Debug\Projeto44 - Usando DLLs Nativas 1.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto44 - Usando DLLs Nativas 1\obj\Debug\Projeto44 - Usando DLLs Nativas 1.exe
+C:\temp\C#\Projeto44 - Usando DLLs Nativas 1\obj\Debug\Projeto44 - Usando DLLs Nativas 1.pdb

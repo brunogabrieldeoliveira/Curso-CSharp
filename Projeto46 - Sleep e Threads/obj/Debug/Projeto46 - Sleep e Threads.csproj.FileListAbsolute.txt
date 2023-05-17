@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto46 - Sleep e Threads\bin\Debug\Projeto46 - Sleep e Threads.exe.config
+C:\temp\C#\Projeto46 - Sleep e Threads\bin\Debug\Projeto46 - Sleep e Threads.exe
+C:\temp\C#\Projeto46 - Sleep e Threads\bin\Debug\Projeto46 - Sleep e Threads.pdb
+C:\temp\C#\Projeto46 - Sleep e Threads\obj\Debug\Projeto46 - Sleep e Threads.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto46 - Sleep e Threads\obj\Debug\Projeto46 - Sleep e Threads.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto46 - Sleep e Threads\obj\Debug\Projeto46 - Sleep e Threads.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto46 - Sleep e Threads\obj\Debug\Projeto46 - Sleep e Threads.exe
+C:\temp\C#\Projeto46 - Sleep e Threads\obj\Debug\Projeto46 - Sleep e Threads.pdb

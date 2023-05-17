@@ -1,0 +1,8 @@
+C:\temp\C#\Projeto45 - Usando DLLs Nativas 2\bin\Debug\Projeto45 - Usando DLLs Nativas 2.exe.config
+C:\temp\C#\Projeto45 - Usando DLLs Nativas 2\bin\Debug\Projeto45 - Usando DLLs Nativas 2.exe
+C:\temp\C#\Projeto45 - Usando DLLs Nativas 2\bin\Debug\Projeto45 - Usando DLLs Nativas 2.pdb
+C:\temp\C#\Projeto45 - Usando DLLs Nativas 2\obj\Debug\Projeto45 - Usando DLLs Nativas 2.csproj.AssemblyReference.cache
+C:\temp\C#\Projeto45 - Usando DLLs Nativas 2\obj\Debug\Projeto45 - Usando DLLs Nativas 2.csproj.SuggestedBindingRedirects.cache
+C:\temp\C#\Projeto45 - Usando DLLs Nativas 2\obj\Debug\Projeto45 - Usando DLLs Nativas 2.csproj.CoreCompileInputs.cache
+C:\temp\C#\Projeto45 - Usando DLLs Nativas 2\obj\Debug\Projeto45 - Usando DLLs Nativas 2.exe
+C:\temp\C#\Projeto45 - Usando DLLs Nativas 2\obj\Debug\Projeto45 - Usando DLLs Nativas 2.pdb
